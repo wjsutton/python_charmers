@@ -17,7 +17,7 @@ Install the Python Visual Studio Code Extension: https://marketplace.visualstudi
 - In the terminal window type:
 
 ```
-python –version
+python –-version
 ```
 
 This should return “Python “ followed by the version number
