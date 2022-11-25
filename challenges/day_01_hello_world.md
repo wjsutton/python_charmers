@@ -8,9 +8,14 @@ Learning python through 15 minute daily projects.
 
 Today we’ll be getting you started with python using a text editor called Visual Studio Code. 
 
-Download and Install Visual Studio (VS) Code: https://code.visualstudio.com/download
-Download and Install Python: https://www.python.org/downloads/ 
-Install the Python Visual Studio Code Extension: https://marketplace.visualstudio.com/items?itemName=ms-python.python 
+**Task: To Download and Install**
+
+- Visual Studio (VS) Code: https://code.visualstudio.com/download
+- Python: https://www.python.org/downloads/ 
+- Python Visual Studio Code Extension: https://marketplace.visualstudio.com/items?itemName=ms-python.python 
+
+
+**Task: Check Python is setup in VS Code**
 
 - Open VS Code
 - Top Menu  Bar > Select ‘Terminal’ > Select ‘New Terminal’
@@ -27,6 +32,8 @@ If you see an error, it may be likely python is not set as an environment variab
 ![Screenhot of setting python to environment variable Path](images/01_env_variables.png)
 
 E.g. C:\Users\Username\AppData\Local\Programs\Python\PythonVersion\Scripts
+
+**Task: Execute a Python script**
 
 Next, we’ll make a python script and execute it via the terminal. 
 
