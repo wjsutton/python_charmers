@@ -25,11 +25,11 @@ Below are the current tasks for you to tackle. Good luck!
 
 | Task   | Script | Data | Solution |
 | ----------- | ----------- | ----------- | ----------- |
-| [Day 01]()  | [hello_world.py](scripts/01_hello_world.py)  |  |  |
-| [Day 02]()  | [pip_install.py](scripts/02_pip_install.py)  | [Bike sales](data/PD%202021%20Wk%201%20Input%20-%20Bike%20Sales.csv) |  |
-| [Day 03]()  | []()  | |  |
-| [Day 04]()  | []()  | |  |
-| [Day 05]()  | []()  | |  |
+| [Day 01](challenges/day_01_hello_world.md)  | [hello_world.py](scripts/01_hello_world.py)  |  |  |
+| [Day 02](challenges/day_02_pip_install.md)  | [pip_install.py](scripts/02_pip_install.py)  | [Bike sales](data/PD%202021%20Wk%201%20Input%20-%20Bike%20Sales.csv) |  |
+| Day 03  | []()  | |  |
+| Day 04  | []()  | |  |
+| Day 05  | []()  | |  |
 
 
 
