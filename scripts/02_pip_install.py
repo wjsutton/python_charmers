@@ -25,6 +25,6 @@ data = data.loc[(data['Order ID'] >= 11)]
 
 # Output the data as a csv
 data = data.drop(['Store - Bike','Date'], axis=1)
-data.to_csv('PD 2021 Wk 1 Output - Bike Sales.csv', index=False)
+data.to_csv('output\\PD 2021 Wk 1 Output - Bike Sales.csv', index=False)
 
 print("data prepped!")
