@@ -32,7 +32,7 @@ pip install numpy
 python -m pip install --upgrade pip 
 ```
 
-Often when working with python you'll need to pick up another person's script to fix a problem or adapt it for your own needs. 
+Often when working with python you'll need to pick up another person's script to fix a problem or adapt it to your own needs. 
 
 So today we'll be working through:
 
@@ -44,7 +44,7 @@ So today we'll be working through:
 
 We'll be working through a [python script](https://github.com/wjsutton/python_charmers/blob/main/scripts/02_pip_install.py) that modifies our [Bike Sales data](https://github.com/wjsutton/python_charmers/blob/main/data/PD%202021%20Wk%201%20Input%20-%20Bike%20Sales.csv). 
 
-The script reads the data, modifies the columns, filters out some orders, writes the data to a csv file locally, then prints "data prepped" to the terminal window. 
+The script reads the data, modifies the columns, filters out some orders, writes the data to a csv file locally, and then prints "data prepped" to the terminal window. 
 
 ```
 import pandas as pd
@@ -91,13 +91,13 @@ Run the [python script](https://github.com/wjsutton/python_charmers/blob/main/sc
 
 Areas to watch out for
 - ensure you have the required packages installed using `pip install ...`
-- check where your data is stored, note the `data\\` prefix indicates the file is stored in a folder name "data"
+- check where your data is stored, note the `data\\` prefix indicates the file is stored in a folder named "data"
 - check where your script is being run from (working directory) in the terminal, you can change this using the `cd path/to/my/script` 
 
 
 #### Bonus Task
 
-We'll be covering data transformations in a later project, if you have time:
+We'll be covering data transformations in a later project if you have time:
 
 - Check what the transformations are doing against the [pandas](https://pandas.pydata.org/docs/reference/general_functions.html) and [numpy](https://numpy.org/doc/stable/reference/routines.math.html) docs 
 - Remove the filter on orders
