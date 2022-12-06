@@ -42,9 +42,9 @@ So today we'll be working through:
 
 ### The Script
 
-We'll be working through a script that modifies our Bike Sales data. 
+We'll be working through a [python script](https://github.com/wjsutton/python_charmers/blob/main/scripts/02_pip_install.py) that modifies our [Bike Sales data](https://github.com/wjsutton/python_charmers/blob/main/data/PD%202021%20Wk%201%20Input%20-%20Bike%20Sales.csv). 
 
-The script reads the data, modiifies the columns, filters out some orders, then writing the data to a csv file locally. 
+The script reads the data, modifies the columns, filters out some orders, writes the data to a csv file locally, then prints "data prepped" to the terminal window. 
 
 ```
 import pandas as pd
@@ -75,6 +75,8 @@ data.to_csv('output\\PD 2021 Wk 1 Output - Bike Sales.csv', index=False)
 
 print("data prepped!")
 ```
+Source: my solution to [Week 2021 Preppin' Data Challenge](https://preppindata.blogspot.com/2021/01/2021-week-1.html)
+
 
 A few notes
 
@@ -84,3 +86,19 @@ A few notes
 
 
 ### The Task
+
+Run the [python script](https://github.com/wjsutton/python_charmers/blob/main/scripts/02_pip_install.py) locally so it outputs a dataset. 
+
+Areas to watch out for
+- ensure you have the required packages installed using `pip install ...`
+- check where your data is stored, note the `data\\` prefix indicates the file is stored in a folder name "data"
+- check where your script is being run from (working directory) in the terminal, you can change this using the `cd path/to/my/script` 
+
+
+#### Bonus Task
+
+We'll be covering data transformations in a later project, if you have time:
+
+- Check what the transformations are doing against the [pandas](https://pandas.pydata.org/docs/reference/general_functions.html) and [numpy](https://numpy.org/doc/stable/reference/routines.math.html) docs 
+- Remove the filter on orders
+- Change the Store column output in uppercase 
