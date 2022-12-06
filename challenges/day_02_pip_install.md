@@ -87,13 +87,14 @@ A few notes
 
 ### The Task
 
-Run the [python script](https://github.com/wjsutton/python_charmers/blob/main/scripts/02_pip_install.py) locally so it outputs a dataset. 
+Run the [python script](https://github.com/wjsutton/python_charmers/blob/main/scripts/02_pip_install.py) locally so it outputs the data with modifications. 
 
 Areas to watch out for
 - ensure you have the required packages installed using `pip install ...`
 - check where your data is stored, note the `data\\` prefix indicates the file is stored in a folder named "data"
-- check where your script is being run from (working directory) in the terminal, you can change this using the `cd path/to/my/script` 
+- check where your script is being run from (working directory) in the terminal, you can change this using the `cd path/to/my/script` see my terminal output below
 
+![Screenhot of VS Code output, changing folders using cd](images/02_terminal_change_directory.png)
 
 #### Bonus Task
 
