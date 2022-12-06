@@ -27,7 +27,9 @@ python –-version
 
 This should return “Python “ followed by the version number
 
-If you see an error, it may be likely python is not set as an environment variable. To fix this, you will need to “Edit the system environment variables.”, under the Path variable add the location of your Python install.  
+If you see an error, firstly for Windows users try downloading Python via the Microsoft Store application on your computer and rerun `python --version`
+
+If this doesn't work, it may be likely python is not set as an environment variable. To fix this, you will need to “Edit the system environment variables.”, under the Path variable add the location of your Python install.  
 
 ![Screenhot of setting python to environment variable Path](images/01_env_variables.png)
 
