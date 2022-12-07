@@ -27,7 +27,7 @@ Below are the current tasks for you to tackle. Good luck!
 | ----------- | ----------- | ----------- | ----------- |
 | [Day 01](challenges/day_01_hello_world.md)  | [hello_world.py](scripts/01_hello_world.py)  |  |  |
 | [Day 02](challenges/day_02_pip_install.md)  | [pip_install.py](scripts/02_pip_install.py)  | [Bike sales](data/PD%202021%20Wk%201%20Input%20-%20Bike%20Sales.csv) |  |
-| Day 03  | []()  | |  |
+| [Day 03](challenges/day_03_profiling_data.md)  | [profiling_data.py](scripts/03_profiling_data.py)  | [German autos](data/autos_random_50k_cleaned.csv), [Film Actors](data/actorfilms.csv) | [profiling_data_solution.py](scripts/solutions/03_profiling_data_solution.py) |
 | Day 04  | []()  | |  |
 | Day 05  | []()  | |  |
 
