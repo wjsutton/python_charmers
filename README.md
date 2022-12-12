@@ -21,8 +21,6 @@ Below are the current tasks for you to tackle. Good luck!
 ## :snake: Challenges
 
 
-### Week 1 - Up and Running (ok maybe slithering!) 
-
 | Task   | Script | Data | Solution |
 | ----------- | ----------- | ----------- | ----------- |
 | [Day 01](challenges/day_01_hello_world.md)  | [hello_world.py](scripts/01_hello_world.py)  |  |  |
@@ -30,7 +28,7 @@ Below are the current tasks for you to tackle. Good luck!
 | [Day 03](challenges/day_03_profiling_data.md)  | [profiling_data.py](scripts/03_profiling_data.py)  | [German autos](data/autos_random_50k_cleaned.csv), [Film Actors](data/actorfilms.csv) | [profiling_data_solution.py](scripts/solutions/03_profiling_data_solution.py) |
 | [Day 04](challenges/day_04_data_prep.md)  | [data_prep.py](scripts/04_data_prep.py) | [Bike Model Sales](data/PD2021_Wk2_Input_Bike_Model_Sales.csv)  | [data_prep_solution.py](scripts/solutions/04_data_prep_solution.py)  |
 | [Day 05](challenges/day_05_make_an_api_call.md)  | [05_tabpub_api_calls.py](scripts/05_tabpub_api_calls.py)  | |  |
-
+| [Day 06](challenges/day_06_fake_data.md)  | [06_fake_data.py](scripts/06_fake_data.py)  | | [06_fake_data_solution.py](scripts/solutions/06_fake_data_solution.py) |
 
 
 
