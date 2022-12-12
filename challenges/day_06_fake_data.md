@@ -6,7 +6,7 @@ Learning python through 15 minute daily projects.
 
 ### Day 06: Build a fake dataset
 
-Today we’ll be diving into the Python's faker package to build a fake list of employees and their details.
+Today we’ll be diving into Python's faker package to build a fake list of employees and their details.
 
 **Task: Pip install faker**
 
@@ -46,7 +46,7 @@ print(fake.name())
 print(fake.address())
 ```
 
-A huge range:
+There are a huge range of fake data fields you can use, either standard with the faker package or by installing community package:
 
 - [Standard Providers](https://faker.readthedocs.io/en/master/providers.html)
 - [Community Providers](https://faker.readthedocs.io/en/master/communityproviders.html)
@@ -55,9 +55,9 @@ A huge range:
 
 ### Loops
 
-For our fake data we want more than 1 record, and we can achieve this with a loop and range.
+For our fake data, we want more than 1 record, and we can achieve this with a loop and range.
 
-`range` returns a list of number, defaulting at zero, incrementing by one, up to but not including the variable given:
+`range` returns a list of numbers, defaulting at zero, incrementing by one, up to but not including the variable given:
 e.g. print(range(5)) will return 0 to 4
 
 ```
@@ -98,7 +98,7 @@ names += [fake.name()]
 ```
 Where += says, take the list `names` and add `[fake.name()]`
 
-Now getting the list to a dataframe
+Now get the list to a dataframe
 
 ```
 df = pd.DataFrame(
@@ -131,4 +131,12 @@ print(df)
 
 ### Task 
 
+We trying to replace the personal details of 50 employees with some fake data. 
 
+Take the script [06_fake_data.py](scripts/06_fake_data.py) and make the following changes:
+
+- add male and female names based on the Gender use `np.where(statement,True condition,False condition)`
+- add a start date from last 10 years
+- add a date of birth so the employee's minimum age is 16
+
+Check your answer against the solution here: [06_fake_data_solution.py](https://github.com/wjsutton/python_charmers/blob/main/scripts/solutions/06_fake_data_solution.py)
