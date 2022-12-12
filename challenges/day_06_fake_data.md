@@ -133,7 +133,7 @@ print(df)
 
 We trying to replace the personal details of 50 employees with some fake data. 
 
-Take the script [06_fake_data.py](scripts/06_fake_data.py) and make the following changes:
+Take the script [06_fake_data.py](https://github.com/wjsutton/python_charmers/blob/main/scripts/06_fake_data.py) and make the following changes:
 
 - add male and female names based on the Gender use `np.where(statement,True condition,False condition)`
 - add a start date from last 10 years
