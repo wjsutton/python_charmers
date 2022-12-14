@@ -6,7 +6,7 @@ Learning python through 15 minute daily projects.
 
 ### Day 07: Tableau Server
 
-Today we’ll be logining on to our Tableau Server to extract data on our users and their groups.
+Today we’ll be logging on to our Tableau Server to extract data on our users and their groups.
 
 **Task: Pip install tableauserverclient**
 
@@ -21,9 +21,9 @@ pip install tableauserverclient
 
 ### Login Basics
 
-For the Tableau Server python will need your username and password, while you can add these to the script as strings it's not recommneded. why? Because of secruity reasons, it's like leaving the keys to the front door in the lock, anyone could find the script and use your credientials, especially if you save the script to the web using Github or Bitbuckt.
+For the Tableau Server python will need your username and password, while you can add these to the script as strings it's not recommended. Why? Because of security reasons, it's like leaving the keys to the front door in the lock, anyone could find the script and use your credentials, especially if you save the script to the web using GitHub or Bitbucket.
 
-In this case we'll read the credientals from a locally stored file. A better way to manage access would be using environment variables or secret managers, for now we'll use a file, [access/tableau_server.csv](https://github.com/wjsutton/python_charmers/blob/main/access/tableau_server.csv) open this file, correct the username password and server details (check the convo post).
+In this case, we'll read the credentials from a locally stored file. A better way to manage access would be using environment variables or secret managers, for now, we'll use a file, [access/tableau_server.csv](https://github.com/wjsutton/python_charmers/blob/main/access/tableau_server.csv) open this file, and correct the username password and server details (check the convo post).
 
 ```
 import tableauserverclient as TSC
