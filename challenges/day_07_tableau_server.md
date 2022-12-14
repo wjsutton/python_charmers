@@ -33,9 +33,9 @@ keys = pd.read_csv('access\\tableau_server.csv')
 
 # Enter server details
 # read username and password from file
-server_url = 'https://tableauserver.theinformationlab.co.uk/'
-sitename = 'til2'
-username = keys['user'][0]
+server_url = keys['server_url'][0]
+sitename =  keys['sitename'][0]
+username = keys['username'][0]
 password = keys['password'][0]
 
 # Set up for server authenication
