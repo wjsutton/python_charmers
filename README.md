@@ -27,10 +27,10 @@ Below are the current tasks for you to tackle. Good luck!
 | [Day 02](challenges/day_02_pip_install.md)  | [pip_install.py](scripts/02_pip_install.py)  | [Bike sales](data/PD%202021%20Wk%201%20Input%20-%20Bike%20Sales.csv) |  |
 | [Day 03](challenges/day_03_profiling_data.md)  | [profiling_data.py](scripts/03_profiling_data.py)  | [German autos](data/autos_random_50k_cleaned.csv), [Film Actors](data/actorfilms.csv) | [profiling_data_solution.py](scripts/solutions/03_profiling_data_solution.py) |
 | [Day 04](challenges/day_04_data_prep.md)  | [data_prep.py](scripts/04_data_prep.py) | [Bike Model Sales](data/PD2021_Wk2_Input_Bike_Model_Sales.csv)  | [data_prep_solution.py](scripts/solutions/04_data_prep_solution.py)  |
-| [Day 05](challenges/day_05_make_an_api_call.md)  | [05_tabpub_api_calls.py](scripts/05_tabpub_api_calls.py)  | |  |
-| [Day 06](challenges/day_06_fake_data.md)  | [06_fake_data.py](scripts/06_fake_data.py)  | | [06_fake_data_solution.py](scripts/solutions/06_fake_data_solution.py) |
-| [Day 07](challenges/day_07_tableau_server.md)  | [07_tableau_server.py](scripts/07_tableau_server.py)  | | [07_tableau_server_solution.py](scripts/solutions/07_tableau_server_solution.py) |
-
+| [Day 05](challenges/day_05_make_an_api_call.md)  | [tabpub_api_calls.py](scripts/05_tabpub_api_calls.py)  | |  |
+| [Day 06](challenges/day_06_fake_data.md)  | [fake_data.py](scripts/06_fake_data.py)  | | [fake_data_solution.py](scripts/solutions/06_fake_data_solution.py) |
+| [Day 07](challenges/day_07_tableau_server.md)  | [tableau_server.py](scripts/07_tableau_server.py)  | | [tableau_server_solution.py](scripts/solutions/07_tableau_server_solution.py) |
+| [Day 08](challenges/day_08_data_prep2.md)  | [data_prep2.py](scripts/08_data_prep2.py)  | [students](https://github.com/wjsutton/python_charmers/blob/main/data/students.csv), [travel](https://github.com/wjsutton/python_charmers/blob/main/data/travel.csv) | [data_prep2_solution.py](scripts/solutions/08_data_prep2_solution.py) |
 
 
 
