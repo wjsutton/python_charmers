@@ -1,0 +1,21 @@
+viewCount,authorName,workbookRepoUrl,title,description,viewCount,defaultViewName,defaultViewRepoUrl,luid,showInProfile,attributions,authorProfileName,numberOfFavorites
+0,Thi Ho,SingaporePopulationHousingInfrastructure,"#VOTD Singapore Population, Housing & Infrastructure",,12513,Singapore,SingaporePopulationHousingInfrastructure/sheets/Singapore,51f62d59-f99e-42c7-8627-571b23ab86a9,True,[],thi.ho,201
+0,Marc Reid,TableauMapLayers,Tableau Map Layers,,5520,TableauMapLayers,TableauMapLayers/sheets/TableauMapLayers,88ecce5a-9dd0-486d-b0bc-e58e0eec5df0,True,[],marc.reid,115
+0,Surveillance & Epidemiology,COVID-19-PublicFacingMap,COVID-19 - Neighbourhood Map,,6723496,MapDashboard,COVID-19-PublicFacingMap/sheets/MapDashboard,18359c36-a04a-49b4-b45c-897cd77dc90f,True,[],tphseu,24
+0,Raffael Schlender,FOL_CoronaMap,FOL_Corona Map,,22349764,FOL_CoronaMap,FOL_CoronaMap/sheets/FOL_CoronaMap,b76a69ff-6e25-428a-b9da-cee8ea4c992f,True,[],raffael.schlender,0
+0,Federal Trade Commission,FraudandIDTheftMaps,Fraud and ID Theft Maps,,146012,AllReportsbyState,FraudandIDTheftMaps/sheets/AllReportsbyState,20d77936-726e-4c6c-ba32-6b869e303ee0,True,[],federal.trade.commission,103
+0,Darragh Murray,TheLandisaMap-PlacenamesofIndigenousAustralianorigin,#VOTD The Land is a Map - Place names of Indigenous Australian origin,,11149,TheLandisaMap,TheLandisaMap-PlacenamesofIndigenousAustralianorigin/sheets/TheLandisaMap,1dd8dc56-c197-4364-9564-8842114742d4,True,[],darragh.murray,113
+0,U.S. Census Bureau,2020CensusPopulationandHousingMap,2020 Census Population and Housing Map,,2699863,AllStates,2020CensusPopulationandHousingMap/sheets/AllStates,f5055ad0-9be8-482f-a147-8b723c47b894,True,[],us.census.bureau,53
+0,Jackie Janosko,Map_15877381742700,Map,,610391,Regular,Map_15877381742700/sheets/Regular,b60f0ab0-182d-4cde-b337-93f6f950dbc8,True,[],jackie.janosko6878,3
+0,Adedamola (Damola) Ladipo,WorldTileMap_16575095454150,Countries That Drive on the Right or Left (#VOTD),,10224,Dashboard,WorldTileMap_16575095454150/sheets/Dashboard,e611e237-4379-4d53-9a35-83db1aa156eb,True,"[{'workbookName': 'Visible Women', 'authorDisplayName': 'Judit Bekker', 'attributionUrl': 'https://public.tableau.com/app/profile/judit.bekker/viz/Happywomensday/WomenintheEuropeanCommission', 'workbookRepoUrl': 'Happywomensday', 'authorProfileName': 'judit.bekker', 'workbookViewName': 'WomenintheEuropeanCommission'}]",adedamola8122,153
+0,NCRI Interactive Portfolio Maps,NCRIPortfolioMaps_0,NCRI Portfolio Maps,,26550,Map,NCRIPortfolioMaps_0/sheets/Map,9bdd3c20-9fd8-43b8-a627-0bcc49b2791c,True,[],ncri,2
+0,Kevin Taylor,HexTileMaps,Hex Tile Maps,,562808,Example,HexTileMaps/sheets/Example,d5ea8208-1e61-4a96-8435-13bbd8742d4c,True,[],kevin.taylor,6
+0,Marc Reid,MapLayerswithLayerFilter,Map Layers with Layer Filter,,4574,MapLayers,MapLayerswithLayerFilter/sheets/MapLayers,829c9777-dcf7-4cbb-a094-4f5b8c3b103c,True,[],marc.reid,50
+0,National Alliance to End Homelessness,2021SOHAtRiskMapDeviceLayouts-HEXMAP,2021 SOH AtRisk Map Device Layouts - HEX MAP,,405053,Dashboard1,2021SOHAtRiskMapDeviceLayouts-HEXMAP/sheets/Dashboard1,9504087d-9bb7-475d-809a-f4aa066cec87,True,[],naeh1302,2
+0,U.S. Census Bureau,PayRateMap,PayRateMap,,3670952,NationalMap,PayRateMap/sheets/NationalMap,e05fe0b3-c3a4-4219-a0b7-dce7c79f9777,True,[],us.census.bureau,0
+0,George Gorczynski,WAStateNonprofits,WA State Nonprofits,,17752,Map,WAStateNonprofits/sheets/Map,ba229bc8-25ac-4a87-a116-fca5df95d453,True,[],george.gorczynski,30
+0,Matt Moore,SCVirusMap,SC Virus Map,,2266796,Dashboard2,SCVirusMap/sheets/Dashboard2,4bae5692-51d7-4673-a401-5f6bb0f63d47,True,[],matt.moore6305,2
+0,Thomas Hargrove,MAP_MSA_Map,MAP_MSA_Map,,28953,MSA,MAP_MSA_Map/sheets/MSA,b7ed3810-7341-496e-9b0a-0962bd76defc,True,[],thomas.hargrove,0
+0,Matt Moore,ZIPMap_15861866877270,ZIP Map,,358943,Dashboard2,ZIPMap_15861866877270/sheets/Dashboard2,6c3543c1-a1c0-42dc-b827-719e43cc3dc7,True,[],matt.moore6305,6
+0,Alexander Pefteev,NATOmap,NATO map,,965921,sheet2,NATOmap/sheets/sheet2,e7fecbbd-4985-4de4-95ab-4a5f565d2ed8,True,[],a.pefteev,0
+0,U.S. Census Bureau,Apportionment_16116063135030,Historical Apportionment Data Map,,1486649,Apportionment,Apportionment_16116063135030/sheets/Apportionment,f95601d9-9fee-46ba-995c-45c7e94f9955,True,[],us.census.bureau,156

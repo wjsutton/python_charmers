@@ -1,0 +1,246 @@
+Site_ID,site_name,Group_ID,license_mode,minimum_site_role,name,domainname
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,2268ee80-fad5-11e3-ab68-9fdcc69e9777,,,All Users,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,226a4e4c-fad5-11e3-8872-531e963255b6,,,TIL,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,bb4e59d8-fd01-4abf-8db7-424691deccb2,,,Marketing,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,4971be14-142c-4a7f-bf08-32560b15742d,,,DS Leadership,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,1b7d5f60-3f8e-43aa-a430-5d6c6ec56a88,,,B2S testing,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,ca2ed61f-25f7-40e6-ae7d-8f7cba20f5e1,,,Azets_admin,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,1accfb71-69d1-40d7-a5f9-ca6ed8e3d9e9,,,Azets_Aberdeen,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,0c9f07fe-61fa-4599-a15f-556c13220363,,,Azets_London,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,50f2d9f1-a055-40d5-9630-e518f2923195,,,UserGroup,local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,7f2a86bc-c875-4b53-8b3d-28c69f60d7a0,,,Sales (Demo),local
+55518117-e4a3-42e4-9549-48ad0f9f6f9a,Dump,c2ed9d10-7353-4f14-8bf0-de436561a2cb,,,Marketing (Demo),local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,2268793c-fad5-11e3-b086-3311633bf4a0,,,All Users,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,2268c770-fad5-11e3-b590-63e419db0279,,,Barc,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,4c329321-5a95-4441-85ee-a60b15f76df4,,,ML Readers,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,f807a5ea-0408-4866-a426-da3d32126900,,,ML Publishers,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,09da2fc2-acde-4750-8deb-3d0e853950d2,,,Opta Italia,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,3271c3b9-731c-4b80-93c9-803da306953b,,,demo,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,4773432e-5c62-4dd6-aa7c-6b94c64e557c,onLogin,SiteAdministratorExplorer,Site Admins,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,6e8f86e8-f5af-4084-bca2-9edd69d6671f,,,IT - All,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,6a9f9d13-1700-4453-9c3b-e3eb8d505973,,,SALES - Account Managers,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,088f5a56-dd76-4459-991f-c88e99a77d22,,,SALES - Alignment,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,40d04a7e-e0d8-49da-9ff9-2d51579b7056,,,SALES - Data Stewards,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,0e76812a-eea4-45cf-8c36-888f2d86d458,,,SALES - Managers,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,491430e6-7eec-4e48-b8d4-cbc058d6345c,,,SALES - Planning,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,024fc517-d861-4b9a-ac23-959b76118b20,,,SALES - Readiness,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,803d706e-84ba-40bd-94cf-bf5a99ada951,,,SALES - All,local
+53ca04a8-223e-47f6-a5ca-394162e7f977,Demonstration,f5cdf319-da28-4701-9473-fc1752b908af,,,Download-only,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,226963c4-fad5-11e3-a18d-cf8665607d60,,,All Users,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,6adc17b1-a922-4461-97ab-36cb46052554,,,Sales Team,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,0815dcb9-c007-4002-a380-a52590a107bc,,,sdsadd,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,ea0d4dc4-4398-4de5-9f96-98c3f808d5c9,,,Telefonica,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,dcfe2caf-a4f3-4b52-91fe-be4009463e0f,,,Ireland Test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,b9ece461-aa33-4bbb-966d-42af390f549b,,,Spain Test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,0a32d2dc-2621-4410-971c-191a714f9e5c,,,dan test DESK,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,a272096d-9535-43ef-9bac-340a634048d1,,,Analysts - Test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,fdd52ba9-d20d-47cf-b992-2cd81e86b6ca,,,Directors - Test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,2324f822-ae11-4ea0-a825-f652b992219d,,,Everyone else - test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,4d927568-d225-47d4-ba35-65f87e6bcf53,,,CarTrawler Client - Viewers,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,abc51293-87bb-44e4-a18a-1e772819b54b,,,testLS,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,a93e1164-1dc9-4af4-a143-4f2e5b122f30,,,Essentials,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,db4e381b-67d6-45ae-a01d-224b350a1caf,,,Eric's Homies,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,86c3cd9d-1166-476b-b249-83c6569c31ad,,,OPW Finance Analysts,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,723910e1-1553-41d0-bc70-326da6c43ccf,,,OPW Finance Viewers,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,ac9de48d-2859-48dc-a269-fd86f691e46c,,,OPW Finance Data Source Publishers,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,fac7dc22-46c3-4f01-9975-561a699f4874,,,Azets_Admin_test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,7a7726ff-a389-41ee-b610-4dabe90c1ca2,,,Azets_NorthRegion_test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,449869d7-9a7a-4249-b680-b3559a4f7daa,,,Azets_SouthRegion_test,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,9dce4de2-2ef3-4cda-afcc-faf884f793b6,onLogin,Viewer,Nora_demo,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,3a02d06c-fcbc-4b5e-bb1b-aaa9037077bd,,,B_Win Tech All Users,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,5530cd58-e590-464f-a173-6a8f851459f9,,,B_Derivco All Users,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,8687f705-946d-4547-b96a-533807198d03,,,B_Product Analytics,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,c89f65e0-590d-4b8b-9da8-618f455076bb,,,B_WinTech Creators,local
+d2df3d28-5527-4563-bcd1-c2af3172d4b7,The Information Lab,db0e107e-ae85-434a-ae0c-39cba7789936,,,Coaches,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,2268ee80-fad5-11e3-ab68-9fdcc69e9777,,,All Users,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,226a4e4c-fad5-11e3-8872-531e963255b6,,,TIL,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,bb4e59d8-fd01-4abf-8db7-424691deccb2,,,Marketing,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,4971be14-142c-4a7f-bf08-32560b15742d,,,DS Leadership,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,1b7d5f60-3f8e-43aa-a430-5d6c6ec56a88,,,B2S testing,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,ca2ed61f-25f7-40e6-ae7d-8f7cba20f5e1,,,Azets_admin,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,1accfb71-69d1-40d7-a5f9-ca6ed8e3d9e9,,,Azets_Aberdeen,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,0c9f07fe-61fa-4599-a15f-556c13220363,,,Azets_London,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,50f2d9f1-a055-40d5-9630-e518f2923195,,,UserGroup,local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,7f2a86bc-c875-4b53-8b3d-28c69f60d7a0,,,Sales (Demo),local
+9f1ee58e-b27c-4144-acb8-492c0c74cbab,Data School,c2ed9d10-7353-4f14-8bf0-de436561a2cb,,,Marketing (Demo),local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,c8f56349-8d80-4294-9aec-48f3126f49c3,,,All Users,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,9baa8a7e-397d-4745-a1df-bf4503164c0d,,,Alexandra,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,d2f0916d-d333-4f31-9f66-73134e8bb743,,,Data School,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,ed09c74e-1eac-4da8-9b52-d658fc20ae2f,,,Edward,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3119181c-33db-4b77-a665-767b4e201ee9,,,Hashu,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,77c27d4b-08ec-41a7-a5ad-0c20c11f3567,,,IB,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,155763ab-3d61-401e-9cb3-da99fe98b074,,,Marco,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,4edb06ad-e5f2-4e5e-819f-180ae1b8d658,,,Matteo,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,cb8844fb-6be3-4ca1-9fbe-b5657437af3a,,,Niccolo,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,563d9c8f-345c-4906-bbaa-cd0f82db5a41,,,Ravi,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,d228c93b-8617-4abc-9c09-335b6e78499a,,,Ugo,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,b71324ae-75cd-4568-9e70-d4e5675c7cec,,,Pablo,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,1b894697-0646-4da3-8ca3-272bffcdd31a,,,Superstore Consumer,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,5ebd3ec9-6552-475f-8300-60b8bfdcd755,,,Superstore Home Office,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,48d9c1d7-1366-4e1a-8412-e4cfce5767c3,,,MMFavouriteDS7ers,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,e9f9d1f6-0e09-4df6-b89e-8153ed5b484f,,,Home Office Analysts,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,7a0f5f12-212f-4797-8991-2c6f98b4aea8,,,Corporate Analysts,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3fb0afc0-310d-437d-8846-171bffb14d28,,,Consumer Analysts,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,dff70e10-0670-4c6d-a602-0db40303bbb4,,,DS1,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,8c3c80f0-47ec-47a0-8c18-e54fed7a155a,,,DS2,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,6b419f95-5786-4253-bfb0-c7f4da223430,,,DS3,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,5bee28e6-feb7-45b8-afee-7bb033d82f70,,,DS4,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,b4b95921-c162-4bc0-a8f0-8c749719a6d7,,,DS5,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,451c0689-cc99-4deb-a688-afdf8517390f,,,DS6,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,68da3869-bc2f-4ee8-980a-c7a33f708215,,,DS7,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3888eed7-7d18-4e88-b3f7-efa98d421ef8,,,PATH Test,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,a2107217-fed2-4e5d-bff6-8cff0de106c5,,,Server Admin Excluded,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,9a5886c5-1246-479e-9f5b-4d5e1f820436,,,DS8,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,911a4b18-9d34-429b-a6fe-333c9cfe806c,,,DZ Bank Top Manager,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,41c61578-9aa7-482d-9114-3b2457653ce6,,,DZ Bank Sub-Group 7,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,49171a30-c950-4587-a54d-c56a3c6dd9c2,,,A Team,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,bd694b77-3a10-475c-8e59-0586a1a41787,,,test,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,520c7068-1e47-453c-a38d-a8fee592bc1b,,,Gauthier Test Analyst,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,8816cbe6-75e1-411e-820d-f120a8ffec8f,,,TimTom French Analyst,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,326d4a2f-34c7-49c3-9796-81aa66a6a150,,,TimTom English Analyst,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,861eb6a0-8add-4018-b311-44d8842e8d88,,,TimTom Dictator,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,f1f167bc-0015-4883-a816-ce4593a019bc,,,TimTom Department,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,fc6d1a9a-dac5-460a-96b4-a4971c4007cd,,,DS9,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,b8d48a29-6ba9-4114-a6b2-009457cb80dc,,,DS10,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,36aa9568-32fd-45da-9d7d-1dd7e5f5a435,,,DS11,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,e9004478-fe97-4dfe-ab9e-cdab177f012d,,,marketing - test analysts,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,e4320e57-373d-4544-9cdb-5b22fd2f3e1b,,,marketing - department,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,5d89388d-9175-499c-aa83-db421cb9848f,,,marketing - big boi,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3e1cd709-3aa3-44ec-bbb9-da113de897bd,,,DS12,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,ffe36995-205e-48dd-8732-cb7b5f98f95c,,,Coaches,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,879671a1-0805-413c-968c-89b28a5f6f5f,,,DS13,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,5f6fffb4-ae56-467c-bed7-0dc866fa7b52,,,Equal Measures,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,32fe24b8-215e-4424-9dc8-2dbe530e0cc6,,,DS14,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,06302be3-598f-4ca0-a158-b0b2ffc33c6e,,,Savills: Reading,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,353d1026-ce7c-4cbb-b7ca-e53e911db8ba,,,Savills: Stockley Park,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,0c458056-b159-433b-b728-ddee90f683c4,,,Hanna - Furniture,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,491932f3-3bf5-47c0-9ed4-ad450d7e57ac,,,Hanna - Technology,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,d63c17f7-c979-45ad-9e92-7e778bcb8221,,,Hanna - Office Supplies,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,b4bfd867-0ab7-4def-8301-8782f52b4fbe,,,DS15,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,9429d90b-c663-4a97-95a3-f3f1539d92a2,,,helloworld,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,0d324058-6a04-49e1-b6e1-ee4eda83d227,,,DS 16,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,2f838b10-7296-4843-9f93-3dfc8ae13dbe,,,DS17,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,729adb24-2c3f-4c82-aa49-4da027f3722d,,,DS18,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,455f2b55-a514-4859-b25a-266052a18e2f,,,API Alteryx group,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,f5b275d1-4db6-4853-997e-bc16e46042d4,,,t server group,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,599ea99c-7f8b-4b5a-8263-93180b3e2d22,,,Theos new-tableau-server-group,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,cf699180-b9bc-4769-bac6-12fae0bf1c9f,,,Bring back the Beatles Once Again,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,cb050cfa-94e7-41a8-b105-ef9d1c7094c8,,,DS19,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3df74825-8daf-4880-99c5-ee638f329c0b,,,TestingL,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,cc73672e-1476-4d34-aee2-261dc92cc88d,,,DS20,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,17ca942e-c9a7-4450-801e-c54d351af19e,,,DS21,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,f06b031a-fb34-4ffd-a987-10cf90280e11,,,DS22,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3338b780-f07a-401a-9211-a2eee515f952,,,DS13 Test Group,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,c04b2a31-47dd-4974-be63-c759ded32c62,,,Group A,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,3e49dfda-f047-4449-b524-bfe6457392f1,,,Group B,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,4ce023eb-f6be-414c-ab59-99c88e99ddd0,,,DS28,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,1c178457-d151-4dc4-8bed-60496b770bff,onLogin,ExplorerCanPublish,DS30,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,660825d9-b784-4439-84d9-7fc1c24afc14,,,DS31,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,8ee51713-9341-40b6-8682-bf950e9b1605,onLogin,SiteAdministratorExplorer,DS 29,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,8045b968-b838-4b95-8f12-759a5021599a,onLogin,SiteAdministratorCreator,DSNY1,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,43d978d4-33c6-4f3f-bba3-3f1c6bceb7e5,,,DS32,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,0e9622a8-3268-415d-9eee-fd3b609cb13d,,,Dummy S&J,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,20e20c82-ec71-45ad-a83a-eb333136ea73,,,DS31 Training,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,eb73caa7-3eca-4493-a960-73102668658d,,,DS33,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,029e8d85-6423-46d6-8e39-b8277661709b,,,DS34,local
+167e24c3-608e-4544-ad1d-cbf24e35cc9d,Introduction to Tableau,6a22ba5b-fcc4-45e2-bbdb-f6b821665ac8,onLogin,Creator,DS36,local
+c3747277-7432-4143-84cd-0ae9f4f2191d,TIL NL,140f18e3-c9d8-433c-9ba9-2c170f58679b,,,All Users,local
+c3747277-7432-4143-84cd-0ae9f4f2191d,TIL NL,627eb2e1-51cf-4c96-a1a7-2456f484a689,,,The Trainers,local
+c3747277-7432-4143-84cd-0ae9f4f2191d,TIL NL,8b00f5a4-4fcc-4f76-b746-0789546395ab,,,The Trainees,local
+c3747277-7432-4143-84cd-0ae9f4f2191d,TIL NL,54e6ba80-7604-4b61-a114-c29468b30381,,,new,local
+c3747277-7432-4143-84cd-0ae9f4f2191d,TIL NL,b3aeaa3e-d4b6-4171-9d0e-5813fa36dbe3,,,Another trainee group,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,5ae48084-a2f1-44cd-9a05-9a50aa13b0df,,,All Users,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,6775c12a-ef57-4c8a-a2bf-641d0bf9fc6f,,,WoningNet,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,53000a00-ebb9-457c-8333-fb2cdae69fbc,,,Pink Spaghetti,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,ba596261-0e48-4a3d-8d96-206f90b65194,,,IBG,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,d2799a90-7202-4e63-946e-685e45c01d1a,,,Test,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,d2c2f48b-724c-4e5b-b7b8-124dae65b7f0,,,Superstore Sales Insights,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,cf764dc2-5d78-4a31-a197-e191091ea69d,,,Subscription Test,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,e8774323-4e6b-46f8-aa38-0ce7a938033d,,,Group A,local
+8fe97452-c6af-4111-99f8-48afb0227e92,TIL ITALIA,bf0a4c21-32b9-4d93-9687-f0ce46c9c9bc,,,Group B,local
+b5a58bb6-8a50-45f0-8c6f-0c23309e556a,Project Griffon,5b70be25-4657-4188-8ebb-91a32ebe811c,,,All Users,local
+b5a58bb6-8a50-45f0-8c6f-0c23309e556a,Project Griffon,dff70220-c53a-4086-ba82-ff4bec784f67,,,Data School,local
+cf16462b-517e-4970-aee0-5feaf6a2f0cd,Webeditor Training,cca793b0-a75a-440b-8e85-bb7c3b499d33,,,All Users,local
+90ae2353-2832-46f9-bce6-caf458988d02,TIL Lux,8cdc9635-f9fe-4445-9f0d-2b7ae61f64c2,,,All Users,local
+90ae2353-2832-46f9-bce6-caf458988d02,TIL Lux,e874d729-a8e6-4354-a1be-4b909dac7338,,,North,local
+90ae2353-2832-46f9-bce6-caf458988d02,TIL Lux,e2aee2cc-93b8-46ec-b748-755510f41936,,,South,local
+90ae2353-2832-46f9-bce6-caf458988d02,TIL Lux,ae0a7012-ad85-4840-ae6e-3833e5c25494,,,WebEdit,local
+852b0d82-db38-446b-84b2-6df6d4438a52,DS-Company,20600116-ee80-4cb0-8c4c-ecaefd68c783,,,All Users,local
+852b0d82-db38-446b-84b2-6df6d4438a52,DS-Company,43699ba8-bd1a-4a22-a800-a37d8088e3a8,,,Admin,local
+852b0d82-db38-446b-84b2-6df6d4438a52,DS-Company,a2335c4b-d4d7-41b0-862d-445c8a1ab9c5,,,HR,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,8e08e26c-54ae-47a8-80e6-f4f74fe92ee1,,,All Users,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,4f3a5f6a-cf40-4ae7-8f00-1099f8b5abb8,,,Finance Director,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,1bf21d81-5f3a-4a00-b8ee-d2ad7e6da993,,,Operations Dept,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,347a8237-2034-4527-aa04-c0d74d79e73a,,,Operations Director,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,39b446e8-ff3e-4dc0-9891-430f63f2cb22,,,Sales Dept,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,a6b15bdd-4007-4c93-99ad-cda03e372e38,,,Sales Director,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,3b163c68-6f6f-4943-b900-18c945029206,,,Sales Analysts,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,de9f1cb4-8581-4287-a319-3ccb355feb35,,,Marketing DS20,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,b2f04bf1-9d85-4cf4-bf9a-fe2829a9d526,,,Marketing Director DS20,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,d111aab1-c5f1-491f-9cfb-8cc223342e2d,,,Finance Analysts,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,2268e67f-b3bb-45a5-88a9-cc97250e6dfd,,,Finance Department,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,156ba892-fdf1-4f25-9b1c-7935e0978828,,,Operations Analysts,local
+5e28dbee-c643-4d46-ad4b-bdc7bbeb6174,Teaching week,4267dfb6-0988-44c4-9681-3fc20ecc2b31,,,Marketing Analysts,local
+4fa84bcf-0a1c-494d-b818-2394ac32ea0d,IBN,58713159-de4b-4207-aa60-cef3ba001890,,,All Users,local
+93e61b66-019d-461b-b3ea-6f057e9ff2b5,First Group Trainees,3b324650-106a-412c-a173-bd3d2cbb9ded,,,All Users,local
+93e61b66-019d-461b-b3ea-6f057e9ff2b5,First Group Trainees,cff854c5-8836-4efd-87d7-90d549229096,,,TIL UK,local
+36e61b59-5894-4fc3-9b46-65103425637b,TIL Ireland,e2cc4a67-dfec-464d-adf0-4d9e04049278,,,All Users,local
+f72aa83c-cc7a-4291-b7e2-95034c0d5931,Temp Test BDO,87578b1b-3c4a-4064-8d93-11de7cb0a168,,,All Users,local
+f72aa83c-cc7a-4291-b7e2-95034c0d5931,Temp Test BDO,6528bece-4008-4cb1-acc7-4b167fa0efc8,,,Report Publishers,local
+f72aa83c-cc7a-4291-b7e2-95034c0d5931,Temp Test BDO,83ac9136-3c1c-4dc3-ba6e-e774d93af1c5,,,Clients,local
+f72aa83c-cc7a-4291-b7e2-95034c0d5931,Temp Test BDO,fa856a75-b4dc-40c2-b627-dd352572f289,,,Test,local
+29e16150-8f23-4350-bac1-19b6111671b0,TIL Spain,86f4c189-7deb-4cc7-917b-4ca410729abc,,,All Users,local
+29e16150-8f23-4350-bac1-19b6111671b0,TIL Spain,818981f3-0b40-4cfe-b047-bcc175a33369,,,Development,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,0d532c7a-774f-46a5-8b1d-efd6744dcbcc,,,All Users,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,60de049a-a716-41ac-ae48-ee9d53c7ccae,,,Administración,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,a517d455-e120-4062-aebc-30b075b1e821,,,Cliente A,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,c1ebfa99-afc0-4cb2-a4db-9d87653c765d,,,Cliente Z,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,b884ca9a-391f-49c6-ad8f-070dc3236c24,,,Professional,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,0d3a90c9-2a4c-4928-833f-9102a5c4bafd,,,Grupo Administradores ISDI,local
+8941fa40-137a-473e-8e7a-739bab04f166,Test,c276380d-1b75-4f56-a1f0-48cf50e0952d,onLogin,Viewer,Ati,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,ee026bf2-9975-4a86-bce4-7793a0d5277e,,,All Users,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,50e2e3e1-8923-4dba-8216-3ecd338a609f,,,Azets_Mangers_testing,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,b51ec227-e82d-46a4-88a1-d2c78d0de019,,,Azets_NorthRegion_Testing,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,a6e0766b-805c-43a7-aa27-25a6b8b215a2,,,Azats_SouthRegion_Testing,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,ac909b5b-3bd7-41e0-b1d8-7c16ed1d6fc1,,,Sales,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,f9f076ed-b23e-4f23-9ffb-e6f52d6fd953,,,Geography,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,5bd87ebd-8fae-47f5-8015-a468aff1cfba,,,All Views,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,c7692903-b29a-4481-8ab5-7108e8306efe,onLogin,Creator,Creator,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,e1d2c41e-6c12-4338-8175-91745a1c160f,onLogin,ExplorerCanPublish,Explorer,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,764ccd69-dddf-4c79-9e71-85ca6acaff15,onLogin,Viewer,Viewer,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,6dda014b-7e34-462c-9adf-949963c84d65,,,HR,local
+83998f19-d1ba-47b6-9b2c-020dab2ea8a3,HR Demo,72832de3-ccd1-46f4-9c01-48a9bcd8b597,,,Marketing,local
+321aba24-e901-426d-919e-1a91cd37117c,TIL Ireland Training,4f5c6f69-0ad3-475d-8dea-17be655b8727,,,All Users,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,8a2e3c84-b252-486d-a78c-236f4525a7e1,,,All Users,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,e9776bf9-1940-4bf7-aa81-1826f4c4a513,,,Analysts,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,3d9992b5-603e-4860-abea-70b4ee174c2a,,,SAL Department,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,a57fde3c-bc40-4509-b7c5-03d111e86043,,,MKT Department,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,4eacb9aa-3ee1-4e49-9c85-fbc98938179c,,,OPS Department,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,a7faef54-ba14-4c2e-a61d-9d605b574300,,,MKT Director,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,b34c68e6-00aa-450f-a7b7-761fa8c8a096,,,OPS Director,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,817021a6-bbc5-4950-8022-a05b7cf8a782,,,SAL Director,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,a2271774-f917-4cba-a92e-882d46e0b927,,,Franchise,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,443b2ad5-64a9-4c54-ac5f-d05a294fa850,,,Dealer,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,f7960c24-892a-496c-8ed2-3b09d6508801,,,Dealer Group,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,cb280d83-6675-4dcb-8b85-20790ffede59,,,Hostel Marketing Manager,local
+ea39a8b3-9339-4dd1-8076-ffcb948651e6,London's Calling,f5699938-d663-4a5c-9897-7ebacb819b94,,,CarTrawler Clients,local
+ebfe0a7f-5759-4151-a4c9-08cd6cdd01fb,Web Edit Webinar,4c30c225-8f8b-46ee-9fa2-12fa1bdc9927,,,All Users,local
+ebfe0a7f-5759-4151-a4c9-08cd6cdd01fb,Web Edit Webinar,8d9ddfa5-28d6-4464-a4c3-34ce704562ee,,,Sales Team,local
+ebfe0a7f-5759-4151-a4c9-08cd6cdd01fb,Web Edit Webinar,bd4c6f9a-a17e-4750-8725-dcc201cb2bb1,,,testing LS,local
+aa6c8d5d-fd1b-4e66-80f1-6efc1eafb9d1,AEP_Demo_Site,be79bd5d-956e-4517-8dbe-b00588d6a862,,,All Users,local
+fe49577c-0e22-4f28-aeeb-cb9d645e2a3e,PCI Pharma,1a6b748c-bc6b-4738-b900-20e3f2f047d1,,,All Users,local
+53dfff3d-d83a-49ea-92b9-0381cf26dc11,UK Learning Platform Demo,387ac76e-784a-4215-929b-21cab51b23ce,,,All Users,local
+535e6adb-8dba-453e-857a-9b81d392936c,pythonscripttest,b7183350-2bfd-466d-bc09-b04dea5306bb,,,All Users,local
+535e6adb-8dba-453e-857a-9b81d392936c,pythonscripttest,8198dd07-626a-4401-a316-0229f64a3406,,,viewer,local
+535e6adb-8dba-453e-857a-9b81d392936c,pythonscripttest,8063a53d-61d7-4a56-819d-eb19266b088c,,,explorer,local
+535e6adb-8dba-453e-857a-9b81d392936c,pythonscripttest,d5e6c685-365b-44e3-a4e2-3bc89d215fdc,,,creator,local
+e5dafcc2-7640-4f4e-93ce-59a5fef87c1c,sky training,b3303a6d-f5b3-4843-a762-ec4af64b6a8a,,,All Users,local
+e53cfedf-899c-465d-a74f-1ebbc6d413f8,GBDemo,c8b187c5-938a-464d-ab14-559a9ec7e22f,,,All Users,local
+ae3d22ad-3289-4bfb-aadf-206ab2a3fb4c,Explorers Training,6b9ce0ed-4289-4d5a-9cdf-9868f9efccef,,,All Users,local
+0be78d9e-f671-4bb8-9916-179143d448df,Ciaran & Mike,c8bf4890-fe92-474e-bf74-7ea783718c80,,,All Users,local
+3273131b-3657-487d-afb0-7ede21eb9330,Logshark,fca5b63f-4ebb-4772-847b-936146988747,,,All Users,local
+7f533708-8f67-4b3e-8683-602ee148336c,WEEK 11 - DS30 PROJECT - TEST SITE - LANDING PAGE,8a09477c-1098-43d7-b592-4748b767bbd9,,,All Users,local
+4a827baf-a0ef-4c68-88f6-6d479bda2f58,TIL France - Internal,b97a927b-25be-4697-8d78-46a9b1c90757,,,All Users,local
+4a827baf-a0ef-4c68-88f6-6d479bda2f58,TIL France - Internal,e4732497-7472-4602-a838-dd1eab2d7ce1,,,hhhhh,local
+de830dcf-5e2e-4638-911a-c91c4010354b,FinnFocusOrderTest,def8cc42-9108-4d50-b4b2-05ce64389fcf,,,All Users,local
+de830dcf-5e2e-4638-911a-c91c4010354b,FinnFocusOrderTest,e9153f84-6a14-40af-ace1-e99f86dc775e,,,FR Team,local
