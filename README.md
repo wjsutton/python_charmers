@@ -25,8 +25,8 @@ These are Jupyter notebooks designed to be run on a web browser or a server. Thi
 | [01 Variables](notebook_tasks/fundamentals-01-variables.ipynb) |  This lesson gets you started with the basics for handling data in Python. |
 | [02 Packages](notebook_tasks/fundamentals-02-packages.ipynb) |  This lesson gets you started with the basics of installing and using packages in Python.|
 | [03 Getting Started With Pandas](notebook_tasks/fundamentals-03-getting-started-with-pandas.ipynb) |  This lesson gets you comfortable with viewing dataframes with pandas. |
-| [04 Data Wrangling part 1](notebook_tasks/fundamentals-04-data_wrangling-p1.ipynb) |  This lesson dives into data prep with pandas and numpy. |
-| [05 Data Wrangling part 2](notebook_tasks/fundamentals-05-data_wrangling-p2.ipynb) |  This lesson continues data prep with pandas and numpy. |
+| [04 Data Wrangling p1](notebook_tasks/fundamentals-04-data_wrangling-p1.ipynb) |  This lesson dives into data prep with pandas and numpy. |
+| [05 Data Wrangling p2](notebook_tasks/fundamentals-05-data_wrangling-p2.ipynb) |  This lesson continues data prep with pandas and numpy. |
 | [06 Variables](notebook_tasks/fundamentals-06-pandas-test.ipynb) |  This lesson features a set of analysis tasks that provide opportunities to apply the material from the previous lessons. |
 
 
