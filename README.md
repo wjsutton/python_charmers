@@ -12,9 +12,7 @@ At the start of 2021, I wanted to improve my data skills with Python. I've used 
 
 Now I want to pass on that knowledge. Python Charmers is a beginner-friendly, project-based learning course designed for data analysts.
 
-To start we get you set up and leanr the basics of handling data in Python before diving into different areas showing you all the fun things possible with Python. 
-
-At times this course will require you to search for an answer, I will always recommend ChatGPT, Stack Overflow, and Google as the first places to look, other times a reading will be provided. 
+To start we get you set up and learn the basics of handling data in Python before diving into different areas showing you all the fun things possible with Python. At times this course will require you to search for an answer, I will always recommend ChatGPT, Stack Overflow, and Google as the first places to look, other times a reading will be provided. 
 
 Below are the current tasks for you to tackle. Good luck!
 
@@ -25,6 +23,11 @@ These are Jupyter notebooks designed to be run on a web browser or a server. Thi
 | Notebook  | Description |
 | ----------- | ----------- | 
 | [01 Variables](notebook_tasks/fundamentals-01-variables.ipynb) |  This lesson gets you started with the basics for handling data in Python. |
+| [02 Packages](notebook_tasks/fundamentals-02-packages.ipynb) |  This lesson gets you started with the basics of installing and using packages in Python.|
+| [03 Getting Started With Pandas](notebook_tasks/fundamentals-03-getting-started-with-pandas.ipynb) |  This lesson gets you comfortable with viewing dataframes with pandas. |
+| [04 Data Wrangling part 1](notebook_tasks/fundamentals-04-data_wrangling-p1.ipynb) |  This lesson dives into data prep with pandas and numpy. |
+| [05 Data Wrangling part 2](notebook_tasks/fundamentals-05-data_wrangling-p2.ipynb) |  This lesson continues data prep with pandas and numpy. |
+| [06 Variables](notebook_tasks/fundamentals-06-pandas-test.ipynb) |  This lesson features a set of analysis tasks that provide opportunities to apply the material from the previous lessons. |
 
 
 ## :snake: 2022 Challenges
