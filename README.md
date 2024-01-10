@@ -10,20 +10,26 @@ Learning Python through short daily projects.
 
 At the start of 2021, I wanted to improve my data skills with Python. I've used it to build some fun projects, such as working out the [life expectancy of chess pieces](https://github.com/wjsutton/life_expectancy_in_chess) and finding the [resale value of Pokemon trading cards](https://github.com/wjsutton/pokemon_tcg_stockmarket).
 
-Now I want to pass on that knowledge. Python Charmers is a project-based learning course, with daily tasks taking around 15 minutes, with Fridays being acting catch-up days or bonus project days for those with time. 
+Now I want to pass on that knowledge. Python Charmers is a beginner-friendly, project-based learning course designed for data analysts.
 
-This course is designed to be beginner-friendly. The first week will be getting set up, in future weeks we'll dive into different areas showing you all the fun things possible with Python. 
+To start we get you set up and leanr the basics of handling data in Python before diving into different areas showing you all the fun things possible with Python. 
 
-At times this course will require you to search around for an answer, I will always recommend Stack Overflow as the first place to look, other times a reading will be provided. 
+At times this course will require you to search for an answer, I will always recommend ChatGPT, Stack Overflow, and Google as the first places to look, other times a reading will be provided. 
 
 Below are the current tasks for you to tackle. Good luck!
 
+## :snake: 2024 Challenges
 
+These are Jupyter notebooks designed to be run on a web browser or a server. This content has been sourced from open source course, as well as my own content to get you applying Python in your day-to-day work. 
 
+| Notebook  | Description |
+| ----------- | ----------- | 
+| [01 Variables](notebook_tasks/fundamentals-01-variables.ipynb) |  This lesson gets you started with the basics for handling data in Python. |
 
 
 ## :snake: 2022 Challenges
 
+These are scripts for running Python locally on your machine.
 
 | Task   | Script | Data | Solution |
 | ----------- | ----------- | ----------- | ----------- |
