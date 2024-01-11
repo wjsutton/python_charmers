@@ -28,6 +28,7 @@ These are Jupyter notebooks designed to be run on a web browser or a server. Thi
 | [04 Data Wrangling p1](notebook_tasks/fundamentals-04-data_wrangling-p1.ipynb) |  This lesson dives into data prep with pandas and numpy. |
 | [05 Data Wrangling p2](notebook_tasks/fundamentals-05-data_wrangling-p2.ipynb) |  This lesson continues data prep with pandas and numpy. |
 | [06 Pandas Test](notebook_tasks/fundamentals-06-pandas-test.ipynb) |  This lesson features a set of analysis tasks that provide opportunities to apply the material from the previous lessons. |
+| [07 Lists](notebook_tasks/fundamentals-07-lists.ipynb) |  This lesson expands on lists including accessing and modifying data within lists and applying these concepts to dataframes. |
 
 
 ## :snake: 2022 Challenges
