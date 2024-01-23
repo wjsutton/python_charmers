@@ -30,6 +30,7 @@ These are Jupyter notebooks designed to be run on a web browser or a server. Thi
 | [06 Pandas Test](notebook_tasks/fundamentals-06-pandas-test.ipynb) |  This lesson features a set of analysis tasks that provide opportunities to apply the material from the previous lessons. |
 | [07 Lists](notebook_tasks/fundamentals-07-lists.ipynb) |  This lesson expands on lists including accessing and modifying data within lists and applying these concepts to dataframes. |
 | [08 Loops](notebook_tasks/fundamentals-08-loops.ipynb) |  We iterate over our lists using loops to help us retrieve data. |
+| [09 APIs](notebook_tasks/fundamentals-09-apis.ipynb) |  We access data via calling APIs in Python. |
 
 
 
